@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and typescript, created running:
 
 ### `npx create-react-app <project_name> --template typescript`
-
-Create the base project with a typescript template
 
 ## Available Scripts
 
